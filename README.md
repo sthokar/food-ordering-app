@@ -7,4 +7,4 @@ A simple, easy-to-use app for ordering food from a menu.
 - Modal component
 
 ## Check out the awesome App
-https://image-b61e4.web.app/
+- https://image-b61e4.web.app/
