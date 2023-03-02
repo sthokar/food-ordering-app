@@ -6,5 +6,5 @@ A simple, easy-to-use app for ordering food from a menu.
 - Reducer logic
 - Modal component
 
-## Check out the Awesome App
+## Check out the awesome App
 https://image-b61e4.web.app/
