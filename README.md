@@ -5,3 +5,6 @@ A simple, easy-to-use app for ordering food from a menu.
 - Add food items to cart
 - Reducer logic
 - Modal component
+
+## Check out the Awesome App
+https://image-b61e4.web.app/
